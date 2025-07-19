@@ -2,6 +2,18 @@
 
 ---
 
+## Screenshots
+
+![ClearFR](screenshots/Screenshot_Clear_FR.png)
+
+![DarkFR](screenshots/Screenshot_Dark_FR.png)
+
+![ClearEN](screenshots/Screenshot_Clear_EN.png)
+
+![DarkEN](screenshots/Screenshot_Dark_EN.png)
+
+---
+
 ## Description (FR)
 
 **AVL Launcher** est une application Windows légère conçue pour gérer le service anti-triche Riot Vanguard (VGK) et lancer *League of Legends* facilement.  
