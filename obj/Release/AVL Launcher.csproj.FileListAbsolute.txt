@@ -1,0 +1,17 @@
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\AVL Launcher.exe.config
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\AVL Launcher.exe
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\AVL Launcher.pdb
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\System.Diagnostics.EventLog.dll
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\System.ServiceProcess.ServiceController.dll
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\System.Diagnostics.EventLog.xml
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\bin\Release\System.ServiceProcess.ServiceController.xml
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL Launcher.csproj.AssemblyReference.cache
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL_Launcher.BrowseText.resources
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL_Launcher.Properties.Resources.resources
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL Launcher.csproj.GenerateResource.cache
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL Laun.ABB6D7BD.Up2Date
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL Launcher.exe
+C:\Users\Djexxy\source\repos\AVL Launcher\AVL Launcher\obj\Release\AVL Launcher.pdb
